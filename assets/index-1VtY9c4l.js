@@ -9112,7 +9112,7 @@ const Od = () =>
       title: "JavaScript",
       description:
         "自社サイト内のjQueryを使用した、スライドショーやスクロールに伴うアニメーション作成などの実務経験があります。また、サードパーティAPIを使って外部サイトとの連携を行い、機能の拡張が出来ます。",
-      experience: "実務経験あり(3ヶ月)",
+      experience: "実務経験あり(1年間)",
       iconPaths: ["svg/javascript.svg"],
     },
     {
